@@ -1,0 +1,87 @@
+.context-select {
+	margin-top: 30px;
+}
+
+.word-select {
+	/* 	margin: 20px 0px; */
+	min-height: 38;
+}
+
+.word-select>.btn {
+	border-radius: .25rem !important;
+}
+
+.btn-group-wrap {
+	display: inline-table !important;
+}
+
+.btn-group-wrap>button.btn {
+	width: 50px;
+}
+
+.disamb-loading {
+	text-align: center;
+	margin: 20 0;
+}
+
+.disamb-result, .table-entries, .input-group {
+	margin: 20px 0px;
+}
+
+.disamb-result>.table {
+	background-color: #fff;
+	border: black dashed 2px;
+}
+
+.display-none {
+	display: none !important;
+}
+
+.select-alert {
+	margin: 20px 0px;
+}
+
+.table-test-records {
+	margin-top: 40px;
+}
+
+.btn {
+	cursor: pointer;
+}
+
+.input_page_index {
+	line-height: 2;
+	max-width: 54px;
+}
+
+.page_index {
+	float: right !important;
+}
+
+li.page-item>a {
+	cursor: pointer;
+}
+
+li.page-item>input {
+	text-align: center;
+}
+
+.entry-dropdown>.dropdown-menu {
+	min-width: 1em !important;
+}
+
+.glyphicon-minus {
+	color: #eb9316;
+}
+
+.glyphicon-ok {
+	color: green;
+}
+
+.glyphicon-remove {
+	color: red;
+}
+
+.btn-nextpage {
+	width: inherit !important;
+}
