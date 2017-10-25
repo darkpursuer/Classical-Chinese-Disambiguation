@@ -1,6 +1,5 @@
 # Classical-Chinese-Disambiguation
 
-NLP Term Project
 
 Author: Yi Zhang
 Date: 05/10/2017
